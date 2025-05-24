@@ -355,7 +355,9 @@ Man in the middle
 DATA VISUALIZATION
 
 ![image alt](https://github.com/lanrekareem/Global_cybersecurity_threat_project/blob/main/Global%20cybersecurity%20threats%20dashboard%201.png?raw=true)
-FIG 2
+
+![image alt](https://github.com/lanrekareem/Global_cybersecurity_threat_project/blob/main/Global%20cybersecurity%20threats%20dashboard%202.png?raw=true)
+
 
 
 RECOMMENDATIONS
